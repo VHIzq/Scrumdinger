@@ -16,6 +16,7 @@
 		1F49DA4F2A3E7567006271A0 /* CardView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1F49DA4E2A3E7567006271A0 /* CardView.swift */; };
 		1F49DA512A3E7F5A006271A0 /* TrailingIconLabelStyle.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1F49DA502A3E7F5A006271A0 /* TrailingIconLabelStyle.swift */; };
 		1F49DA532A3E8D24006271A0 /* ScrumsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1F49DA522A3E8D24006271A0 /* ScrumsView.swift */; };
+		1F52E2BC2A428B1300D46DD7 /* DetailEditView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1F52E2BB2A428B1300D46DD7 /* DetailEditView.swift */; };
 		1F675E962A41371600F1F86B /* DetailView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1F675E952A41371600F1F86B /* DetailView.swift */; };
 /* End PBXBuildFile section */
 
@@ -30,6 +31,7 @@
 		1F49DA4E2A3E7567006271A0 /* CardView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CardView.swift; sourceTree = "<group>"; };
 		1F49DA502A3E7F5A006271A0 /* TrailingIconLabelStyle.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TrailingIconLabelStyle.swift; sourceTree = "<group>"; };
 		1F49DA522A3E8D24006271A0 /* ScrumsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ScrumsView.swift; sourceTree = "<group>"; };
+		1F52E2BB2A428B1300D46DD7 /* DetailEditView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DetailEditView.swift; sourceTree = "<group>"; };
 		1F675E952A41371600F1F86B /* DetailView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DetailView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -72,6 +74,7 @@
 				1F49DA502A3E7F5A006271A0 /* TrailingIconLabelStyle.swift */,
 				1F49DA522A3E8D24006271A0 /* ScrumsView.swift */,
 				1F675E952A41371600F1F86B /* DetailView.swift */,
+				1F52E2BB2A428B1300D46DD7 /* DetailEditView.swift */,
 			);
 			path = Scrumdinger;
 			sourceTree = "<group>";
@@ -165,6 +168,7 @@
 			files = (
 				1F49DA4D2A3E73EC006271A0 /* DailyScrum.swift in Sources */,
 				1F675E962A41371600F1F86B /* DetailView.swift in Sources */,
+				1F52E2BC2A428B1300D46DD7 /* DetailEditView.swift in Sources */,
 				1F49DA512A3E7F5A006271A0 /* TrailingIconLabelStyle.swift in Sources */,
 				1F49DA4B2A3E62C9006271A0 /* Theme.swift in Sources */,
 				1F49DA532A3E8D24006271A0 /* ScrumsView.swift in Sources */,
